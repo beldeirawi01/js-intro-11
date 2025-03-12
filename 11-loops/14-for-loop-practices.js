@@ -5,4 +5,4 @@ for (let i = 0; i <= 2; i++) {
     sum1 += nums[i];
 }
 
-console.log(sum)
+console.log(sum1)

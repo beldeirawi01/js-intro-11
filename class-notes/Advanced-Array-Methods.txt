@@ -1,0 +1,12 @@
+Methods for arrays: 
+
+Map(): Use when you want to change/transform the array and get a new value, liking doubling each element
+
+Filter(): Use when you need to select elements from an array based off the condition, like if you need only the even numbers in an array
+
+Reduce(): Use if you need to reduce the array down to a single value, like the sum or product of the array
+
+Some(): Use to check if one element in the array meets a condition, returning a boolean and stops when it finds a match
+
+Find(): Use to find the first element that matches a condition and ONLY returns the first one it finds
+
